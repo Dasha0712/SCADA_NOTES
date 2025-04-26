@@ -1,0 +1,4 @@
+1. in modscan you have to use 32bit version
+2. even after putting everything ccorrectly still data not coming means, reduce *length* option which is under address.
+3. in vinci software put everyhting correctly (basic parameters), after that try to use *job* option which is located at the right side of the screeen 
+4. you have to put every parameter s correctly before starting the scan

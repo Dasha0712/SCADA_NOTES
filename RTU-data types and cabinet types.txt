@@ -1,0 +1,61 @@
+1. ask schemes
+2. ask datasheet
+3. ask instruction manual
+
+4. dtech - serial & ethernet converter
+5. ssd - 
+6. multiple adapter
+
+7. bi/bo & ai/ao data types
+######
+AMI - Analog measured value input
+ASO - Analog set-point command output
+BSI08 - Bitstring input (8Bit)
+BSI16 - Bitstring input (16Bit)
+BSI32 - Bitstring input (32Bit)
+BSO01 - Bitstring output 01 bit
+BSO02 - Bitstring output 02 bit
+BSO08 - Bitstring output 08 bit
+BSO16 - Bitstring Output 16 Bit
+DCO - Double command output
+DMI08 - Digital measured value input (8Bit)
+DMI16 - Digital measured value input (16Bit)
+DPI - Double point input
+DSO08 - Digital set-point command 08 Bit
+DSO16 - Digital set-point command 16 Bit
+EPI - Event of protection equipment input
+FSO - Floating set-point command output
+ITI - Integrated totals input
+MFI - Analog measured value floating input
+RCO - Regulation command output
+SCO - Single command output
+SPI - Single point input
+STI - Step position input
+TDC - Transparent data
+######
+
+
+8.what are all cabinet &rack available detailed documeation
+#####
+23KG20 Cabinet - Wall housing cabinet for 23KG20 rack
+23SC20 - Rear mounting cabinet (up to 4 mounting panels)
+23SR20 - Swing frame cabinet (up to 6 19 inch subracks)
+23WG18 - Wall housing cabinet for 560MPR01
+23WG20 - Wall housing cabinet (1 mounting panel)
+23WG22 - Wall housing cabinet (up to 2 mounting panels)
+CSPEC - Customer specific cabinet (up to 6 subracks or mounting panels)
+Demo box - for presentation and training
+DIN rail mounted - Cabinet for DIN rail mounted modules
+FDR - File transfer directory
+FTR - File Transfer File
+SSG - Security Statistic Group
+######
+
+9. i can generate rcd file, but i cant import rcd file
+
+
+10. ZENON
+11. plc logic for rtu - process command settings - interlocking per object
+
+
+

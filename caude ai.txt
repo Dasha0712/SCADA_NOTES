@@ -1,0 +1,2 @@
+from all this data i gave you do you have any idea how how everything works here in microscada
+i want one example 89A close signal coming to hmi what aoppication it passes through what process it finidhsed during the travel,     whee all things stored , with each understandable definition, there are two type of datbase i think in microscda what are all those how everything is stored , from starting to hmi , all things sould be included land also provise a flow map 
