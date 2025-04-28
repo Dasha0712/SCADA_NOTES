@@ -419,4 +419,18 @@ GUID-C72AC29E-4750-4C3D-B4A7-4E6AD1AEE52A V4 en-us
 > here i dont know what is node link , explain the detailed manner of two methods of configuring the Configuring process communication
 
 
-11. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
