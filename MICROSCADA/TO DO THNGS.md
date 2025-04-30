@@ -27,3 +27,11 @@
 14. AUDIBLE ALARM SOP
 
 15. hear all of the karuppu bro audio file, write all othem down and make sop of what he is telling.
+
+16. mearement report  configuration learn.
+
+17. trends configuration learn
+
+18. scil programming language learn through python
+
+19. 
