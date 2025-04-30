@@ -16,6 +16,16 @@
 
  ![SELECT BUTTON OF SINGLE BAY](DISPLAY_BUILDER1.png)
 
+ ## CASE:3
+
+ - How to turn off password policy on usermangement of **MONITOR LOGIN**.
+ - Open monitor -> Tools -> Engineering Tool -> Usermanagement -> Password policy -> Don't enable it.
+
+ ## CASE:4
+
+ - How to add **special Identifier** in the *Object Identifier* of *Process object* 
+ - *Object Navigator* -> click Process object -> Standard Function -> Install -> SA_LIB -> Voltage.
+
 
 
  
