@@ -34,4 +34,8 @@
 
 18. scil programming language learn through python
 
-19. 
+19. DYNAMIC SLD LEARN
+
+20. 86 CMD LEARN
+
+21. 
