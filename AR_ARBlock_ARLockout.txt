@@ -1,0 +1,18 @@
+******************OVERVIEW OF AUTORECLOE LOGIC******************
+
+
+### Steps:
+
+1. protection trip from relay.
+2. the logic check will start, the check is
+3. if it is in "A/R block" condition (or) "A/R lockout" condition (or) "3-PH fault" STOP the Auto Reclose process.
+4. if not we will continue with Auto Reclose Process 
+5. Now "A/R initiation" and  "CB dead time(Time between breaker opening and automatic re-closing)" starts.
+6. Purpose of Dead time is:If we close too early → arc may still exist and If we close too late → system stability affected
+7. If CB is in Ready/Healthy, Autorecloser will start along with Reclaiming timer will also start.
+8. What is Reclaiming Time: Time after successful reclose during which A/R cannot operate again(COOLING PERIOD).
+9. During Reclaiming Time(Cooling period) If any protection operates CB will go to "A/R lockout" condition, that means you cannot reclose the CB again.
+10. Another "A/R Lockout" Logic is: During Reclaiming Period if  "any phase operates" (&) "any carrier fail to sent signal to another end receiving station" CB will go to A/R Lockout" condition.
+11. what is "AR block" condition: After fault and protection operated, If any one of the following conditions are satisfied BCU does not do AUTORECLOSE logic.
+12. the conditions are:86A operated (or) 86B operated (or) LBB operated (or) AR selector switch is OFF (or) CB pole Discrapency it means CB in "AR block" mode(which means CB does not perform auto reclose)
+

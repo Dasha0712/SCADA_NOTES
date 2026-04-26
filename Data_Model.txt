@@ -1,0 +1,22 @@
+DATA MODEL
+
+1. Data is coming from relay contain raw data, data model has some codes that tells what raw data is to human
+2. FOR EXAMPLE
+
+	-->The relay does NOT send: “Overcurrent Pickup = 1.2 In”
+	-->It sends something like:
+ 
+			Parameter ID: 3056
+			Value: 1200
+			Type: Integer
+
+	-->The Data Model contains information like:
+			
+			Parameter ID 3056 =
+			Name: 50/51 Pickup
+			Unit: In
+			Scaling: divide by 1000
+			Allowed range: 0.1 – 10
+			Menu location: Protection → Overcurrent
+
+	-->Data model translates the the raw data which is received from relay in to human readable form

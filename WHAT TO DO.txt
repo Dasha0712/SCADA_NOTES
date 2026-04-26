@@ -1,0 +1,16 @@
+1. how to import text file in to exel-proper md file
+2. AUDIBLE ALARM SOP
+3. protocols - iec 61850, iec 104, opc , modbus tcp, modbus rtu, snmp, sntp(time protocol breifly)(while creating notes mention what are the softwares used and how to use them manual or sop like modscan and modsim)
+4. rtu full configuration-detailed about full sop -like why this cabinet , why this rack- important thing in rtu is communication card, what it is really, how it works really, different cases of asking question like- can i able to recieve and send data  different protocol in same port (modbus tcp & iec61850)-and can i able to get and send data from same port with same protocol like (iec 61850 &iec61850)
+5.microscada full configuration from scrach whiole doing it you can get so many doubts solve it by asking seniors or else asking AI(each application step by step) and all sop for even like dynamic sld , event alarm filter like that all. ->checklist of what to do mandatory
+6. 
+7. basic binary data types- floating , integer, signed, unsigned, little endain, big endian
+8. making subnet and ip address notes 
+9. making tcp and osi layer notes
+10. making case studies notes for iec6850 and data set and report control block - gowtham 
+11. making notes for networking errors finding online and other seniors
+12. making notes for basic busbar schemes(doublebusbar with transfer bus & one and half breaker)
+13. network topologies and network protocols(important(rstp, hsr, prp))
+14.  data conversion sop- hexa to binary, binary to hexa, decimal to hexa, binary
+15. hear all of the karuppu bro audio file, write all othem down and make sop of what he is telling.
+16. checklist of what eswar told notedown all of it like checklist.
